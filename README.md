@@ -1,9 +1,9 @@
-# KeyFistImprover
-A tool for improving your morse code key fist.
+# Key Fist Improver
+A tool for improving your fist (the quality of your morse code sending using a telegraph key).
 
 # Usage
 1. Run pyqt5_app.py (see below)
-2. Connect the output of your code practice oscillator to the microphone intput on your computer.
+2. Connect the output of your code practice oscillator to the microphone input on your computer.
 3. Set the speed in wpm.
 4. Send morse code. The app will show your audio waveform and your decoded text.
 
